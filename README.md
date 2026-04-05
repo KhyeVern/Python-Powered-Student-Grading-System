@@ -3,7 +3,7 @@
 ## Project Description
 The goal of this project is to develop a Student Grading System that manages student records and their assessment results. The system is designed to process and organize student data efficiently while providing meaningful insights into academic performance.
 
-The program reads student information and assessment data from external text files, calculates overall grades, assigns appropriate letter grades, and displays class performance summaries.
+The program reads student information and assessment data from external text files, calculates overall grades, assigns appropriate letter grades, and displays class performance summaries. The system focuses on core functionality, with complex features excluded for simplicity.
 
 ## Data Sources
 The system uses the following text files as input:
